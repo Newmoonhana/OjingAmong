@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 39bed4bb459f98d4d9cf5c1111ff3b48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6050071570262386089
+    second: OjingAmong_Triangle_0
+  - first:
+      213: 8992058697125182288
+    second: OjingAmong_Triangle_1
+  - first:
+      213: 1871581823860659413
+    second: OjingAmong_Triangle_2
+  - first:
+      213: -2056122666657017190
+    second: OjingAmong_Triangle_3
+  - first:
+      213: -4466621790032658190
+    second: OjingAmong_Triangle_4
+  - first:
+      213: 2948049812766004154
+    second: OjingAmong_Triangle_5
+  - first:
+      213: 4614489863101524535
+    second: OjingAmong_Triangle_6
+  - first:
+      213: 5321660967962875879
+    second: OjingAmong_Triangle_7
+  - first:
+      213: -1095316705583195140
+    second: OjingAmong_Triangle_8
+  - first:
+      213: -2195037948636543007
+    second: OjingAmong_Triangle_9
+  - first:
+      213: -1939210280990895818
+    second: OjingAmong_Triangle_10
+  - first:
+      213: 6458124301883679392
+    second: OjingAmong_Triangle_11
+  - first:
+      213: 2399513502951473029
+    second: OjingAmong_Triangle_12
+  - first:
+      213: 5747659514836442807
+    second: OjingAmong_Triangle_13
+  - first:
+      213: 6666512681742766268
+    second: OjingAmong_Triangle_14
+  - first:
+      213: 1160977879272132382
+    second: OjingAmong_Triangle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a12d426f3d90ca0800000000000000
+      internalID: -6050071570262386089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bbb993eb53acc70800000000000000
+      internalID: 8992058697125182288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4da43b0c139f910800000000000000
+      internalID: 1871581823860659413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929747145f2773e0800000000000000
+      internalID: -2056122666657017190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0851ba52f5302c0800000000000000
+      internalID: -4466621790032658190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3131e6fa399e820800000000000000
+      internalID: 2948049812766004154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aaec5f416f90040800000000000000
+      internalID: 4614489863101524535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71d7a74765ad940800000000000000
+      internalID: 5321660967962875879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_8
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb992f6247acc0f0800000000000000
+      internalID: -1095316705583195140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_9
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 231
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e744039d98a981e0800000000000000
+      internalID: -2195037948636543007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63190c8168a8615e0800000000000000
+      internalID: -1939210280990895818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2281106dddf9950800000000000000
+      internalID: 6458124301883679392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ffc2951d8cc4120800000000000000
+      internalID: 2399513502951473029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be58b750e9c3cf40800000000000000
+      internalID: 5747659514836442807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01aed96f5348c50800000000000000
+      internalID: 6666512681742766268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Triangle_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 188.2
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f0a16ea3f9c1010800000000000000
+      internalID: 1160977879272132382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63f411fb1aa7b3f4fb0047179f87423a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

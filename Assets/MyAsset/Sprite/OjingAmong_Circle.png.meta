@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: e7f58c1d1ff763c47be54703ddfe6bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8072438545508084461
+    second: OjingAmong_Circle_0
+  - first:
+      213: 5224703193758543978
+    second: OjingAmong_Circle_1
+  - first:
+      213: 9073300441548451652
+    second: OjingAmong_Circle_2
+  - first:
+      213: -110463697219584085
+    second: OjingAmong_Circle_3
+  - first:
+      213: -80002130351688676
+    second: OjingAmong_Circle_4
+  - first:
+      213: -3173943766124318448
+    second: OjingAmong_Circle_5
+  - first:
+      213: -1837199726198742673
+    second: OjingAmong_Circle_6
+  - first:
+      213: 3757701239641993153
+    second: OjingAmong_Circle_7
+  - first:
+      213: 8868906252348213259
+    second: OjingAmong_Circle_8
+  - first:
+      213: -9062542069947360543
+    second: OjingAmong_Circle_9
+  - first:
+      213: -6179203503907839902
+    second: OjingAmong_Circle_10
+  - first:
+      213: -2196299508935822290
+    second: OjingAmong_Circle_11
+  - first:
+      213: -2099881677565322371
+    second: OjingAmong_Circle_12
+  - first:
+      213: 5246906636456372147
+    second: OjingAmong_Circle_13
+  - first:
+      213: 7215063426499830465
+    second: OjingAmong_Circle_14
+  - first:
+      213: -410912289857241212
+    second: OjingAmong_Circle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OjingAmong_Circle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2e286610170070800000000000000
+      internalID: 8072438545508084461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b3d08fdfd18840800000000000000
+      internalID: 5224703193758543978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe3eedda6daed70800000000000000
+      internalID: 9073300441548451652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf76a64add877ef0800000000000000
+      internalID: -110463697219584085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14fc1f7c76c3eef0800000000000000
+      internalID: -80002130351688676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_5
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011381306f2e3f3d0800000000000000
+      internalID: -3173943766124318448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_6
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 503.3333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61aa7a3594f086e0800000000000000
+      internalID: -1837199726198742673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe7e84e59062430800000000000000
+      internalID: 3757701239641993153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c47d3f3fa41b70800000000000000
+      internalID: 8868906252348213259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea11c6b0026b3280800000000000000
+      internalID: -9062542069947360543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26069bae62f0f3aa0800000000000000
+      internalID: -6179203503907839902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_11
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f38dab3d2581e0800000000000000
+      internalID: -2196299508935822290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_12
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1e5a6db8bbd2e0800000000000000
+      internalID: -2099881677565322371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_13
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 252.33333
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72f9b59c1c0d840800000000000000
+      internalID: 5246906636456372147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c26f6895fd012460800000000000000
+      internalID: 7215063426499830465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OjingAmong_Circle_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1.3333282
+        width: 261.2857
+        height: 251.66667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f773113752c4af0800000000000000
+      internalID: -410912289857241212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3282a54b90178e24893a2ac9e06cb344
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
